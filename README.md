@@ -57,8 +57,8 @@ A modern, full-stack **Library Management System** built with:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/muhammadranju/library-management.git
-cd library-management
+git clone https://github.com/RohitChouhan45/Library-Management.git
+cd Library-Management
 ```
 
 ### 2. Install Dependencies
