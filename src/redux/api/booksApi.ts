@@ -17,7 +17,7 @@ interface GetBooksResponse {
 export const booksApi = createApi({
   reducerPath: "booksApi",
   baseQuery: fetchBaseQuery({
-    baseUrl: "https://library.rohitchouhan.xyz/api",
+    baseUrl: "http://localhost:5000/api",
   }),
   tagTypes: ["Books", "Borrows"],
   endpoints: (builder) => ({
