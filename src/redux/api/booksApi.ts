@@ -17,7 +17,7 @@ interface GetBooksResponse {
 export const booksApi = createApi({
   reducerPath: "booksApi",
   baseQuery: fetchBaseQuery({
-    baseUrl: "https://library.mdranju.xyz/api",
+    baseUrl: "https://library.rohitchouhan.xyz/api",
   }),
   tagTypes: ["Books", "Borrows"],
   endpoints: (builder) => ({
